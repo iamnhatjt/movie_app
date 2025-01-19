@@ -22,7 +22,7 @@ dependencies:
   firebase_auth: ^4.7.2
   retrofit: ^4.0.1
   dio: ^5.3.0
-  cached_network_image: ^3.2.3
+  cached_network_image: ^3.3.1
   loading_animation_widget: ^1.2.0+4
   expandable_text: ^2.3.0
   youtube_player_flutter: ^8.1.2

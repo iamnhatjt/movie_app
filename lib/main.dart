@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movie_app/core/routers/routers.dart';
 import 'package:movie_app/features/main_page/presentation/cubit/list_moive/list_movie_cubit.dart';
 import 'package:movie_app/features/main_page/presentation/cubit/page_movie/page_movie_cubit.dart';
-
 import 'core/service/di.dart';
 
 void main() async {
